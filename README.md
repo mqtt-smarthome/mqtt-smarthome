@@ -81,7 +81,8 @@ the requested new value into the given topic
                                                                            
 ### Additional topics ###
                                                                            
-Each interface should maintain a topic 
+Each interface should maintain a topic (in the same JSON message format
+as all other topics) 
 
     toplevelname/connected
     
@@ -135,5 +136,8 @@ History
   - interfaces may define additional topics
   - recommendation that interfaces should have a configurable topic prefix
   - expanded architecture rationale
-  
+* V0.3 - 2015-01-12 - owagner
+  - clarify that the "connected" topic is also supposed to be a JSON
+    object
+    
   
