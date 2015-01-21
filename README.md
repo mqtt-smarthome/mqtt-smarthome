@@ -79,7 +79,11 @@ Interfaces report states (values from sensors, feedback from actuators)
 by publishing into the topic
 
     toplevelname/status/itemname
- 
+
+The *retain* flag should be set depending on whether the status is a one-shot
+event (e.g. a keypress) or a measurement or other state (e.g. a temperature).
+One-shot events should not be retained, whereas states should have *retain*
+set.
 
 ### Change/Action requests ###
 
