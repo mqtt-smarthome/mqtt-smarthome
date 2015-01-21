@@ -72,6 +72,7 @@ whereas a Homematic interface may represent device/channel names and datapoints:
 
 The *toplevelname* should be configurable so that multiple instances of interfaces
 can coexist on a single message bus.
+
     
 ### Status reports ###
                                                                            
@@ -141,6 +142,23 @@ to receive such commands.
 Messages published to this hierarchy should never have the MQTT *retain* 
 flag set.
 
+### QoS recommendations ###
+
+MQTT supports various QoS (Quality of Service) levels for messages and
+connections:
+
+  * 0 - no guaranteed delivery, no duplicates possible
+  * 1 - guaranteed delivery, *duplicates possible*
+  * 2 - guaranteed delivery, no duplicates possible
+
+In the context of this proposal, it is recommended that QoS 1 is best avoided
+due to the chance that messages may be delivered multiple times.
+
+It should be assumed that duplicated messages in the _set_,  _get_ and
+_command_ hierarchies may cause unwanted repeated hardware interaction, and 
+that duplicated messages in the _status_ hierarchy may trigger unwanted
+repeated events in a logic layer.
+
 
 Message format
 --------------
@@ -182,7 +200,8 @@ message.
 Feedback
 --------
 Feedback is welcome. Feel free to open an issue or a pull request
-on GitHub.
+on GitHub. I'm also available for discussion on #mqtt @ Freenode,
+or via e-mail at owagner AT tellerulam.com.
 
 
 Logo
@@ -210,6 +229,5 @@ History
     - defined "ts" and "lc" timestamps
     - extended "connected" into an enum to differentiate between
       a running interface with and without active hardware connection
-    
-  
-  
+* V0.5 - 2015-01-21 - owagner
+  - clarified retain and QoS recommendations (thanks to bartbes)
