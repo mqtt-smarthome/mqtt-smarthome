@@ -10,8 +10,8 @@ Table of contents
 This project is an architectural proposal for using MQTT as the low-level central
 message bus in smarthome applications.
 
-* (Architecture.md) - contains the architectural proposal
-* (Software.md) - list of software written with this proposal in mind, or
+* [Architecture.md](Architecture.md) - contains the architectural proposal
+* [Software.md](Software.md) - list of software written with this proposal in mind, or
   otherwise usable
   
  

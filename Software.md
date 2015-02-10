@@ -24,6 +24,6 @@ Software written with the proposal in mind
   
 Software with MQTT adapters
 ---------------------------
-* [openhab](https://github.com/)
-
+* [openhab](https://github.com/openhab)
+  has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding)
  
