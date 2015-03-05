@@ -30,6 +30,7 @@ Software with MQTT adapters
 ---------------------------
 * [ccu.io](https://github.com/hobbyquaker/ccu.io) has a MQTT adapter since V1.0.49
 * [fhem](http://fhem.de/) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6 
+* [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt)
 * [openhab](https://github.com/openhab)
   has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding)
 
