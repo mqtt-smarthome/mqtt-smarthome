@@ -10,10 +10,10 @@ Software written with the proposal in mind
 ------------------------------------------
 
 * [hm2mqtt](https://github.com/owagner/hm2mqtt)
-  Interface between EQ-3's Homematic line of smarthome devices and MQTT
+  Interface between EQ-3's Homematic line of smarthome devices and MQTT.
   
 * [knx2mqtt](https://github.com/owagner/knx2mqtt)
-  Interface between the KNX home automation standard and MQTT. Uses the Calimero library.
+  Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
   
 * [logic4mqtt](https://github.com/owagner/logic4mqtt)
   Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so
@@ -21,6 +21,9 @@ Software written with the proposal in mind
   
 * [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt)
   Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
+
+* [hue2mqtt](https://github.com/owagner/hue2mqtt)
+  Interface between the Philips Hue bridge and MQTT.
   
 
 Software with MQTT adapters
