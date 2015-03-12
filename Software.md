@@ -25,6 +25,9 @@ Software written with the proposal in mind
 * [hue2mqtt](https://github.com/owagner/hue2mqtt)
   Interface between the Philips Hue bridge and MQTT.
   
+* [eno2mqtt](https://github.com/owagner/eno2mqtt)
+  Interface between an Enocean USB300 (TCM310) adapter and MQTT.
+
 
 Software with MQTT adapters
 ---------------------------
