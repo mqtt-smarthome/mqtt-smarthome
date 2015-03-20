@@ -28,6 +28,9 @@ Software written with the proposal in mind
 * [eno2mqtt](https://github.com/owagner/eno2mqtt)
   Interface between an Enocean USB300 (TCM310) adapter and MQTT.
 
+* [kodi2mqtt](https://github.com/owagner/kodi2mqtt)
+  Interface between a Kodi mediacenter instance and MQTT.
+
 
 Software with MQTT adapters
 ---------------------------
