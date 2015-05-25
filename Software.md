@@ -31,6 +31,9 @@ Software written with the proposal in mind
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt)
   Interface between a Kodi mediacenter instance and MQTT.
 
+* [modbus2mqtt](https://github.com/owagner/modbus2mqtt)
+  Modbus master which publishes register values via MQTT. 
+
 
 Software with MQTT adapters
 ---------------------------
