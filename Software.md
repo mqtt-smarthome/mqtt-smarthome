@@ -34,6 +34,9 @@ Software written with the proposal in mind
 * [modbus2mqtt](https://github.com/owagner/modbus2mqtt)
   Modbus master which publishes register values via MQTT. 
 
+* [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt)
+  Insert incoming MQTT values into InfluxDB.
+
 
 Software with MQTT adapters
 ---------------------------
