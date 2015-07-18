@@ -37,8 +37,13 @@ Software written with the proposal in mind
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt)
   Insert incoming MQTT values into InfluxDB.
 
+Software otherwise usable 
+---------------------------
+* [Node-RED](http://nodered.org/)
+* [Owntracks](http://owntracks.org/)
+* [mqtt-google-calendar](https://github.com/denschu/mqtt-google-calendar)
 
-Software with MQTT adapters
+Smarthome-Software with MQTT adapters
 ---------------------------
 * [ccu.io](https://github.com/hobbyquaker/ccu.io) has a MQTT adapter since V1.0.49
 * [fhem](http://fhem.de/) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6 
@@ -46,7 +51,7 @@ Software with MQTT adapters
 * [openhab](https://github.com/openhab)
   has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding)
 
-  
+
 Additions and corrections
 -------------------------
 Additions and corrections are welcome! Please open an issue on GitHub, send a 
