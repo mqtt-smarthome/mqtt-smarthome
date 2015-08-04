@@ -42,6 +42,15 @@ Software otherwise usable
 * [Node-RED](http://nodered.org/)
 * [Owntracks](http://owntracks.org/)
 * [mqtt-google-calendar](https://github.com/denschu/mqtt-google-calendar)
+* [agi-mqtt](https://github.com/jpmens/agi-mqtt) 
+  Interface between Asterisk and MQTT
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) 
+* [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge)
+  Interface between DigitalStrom Server and MQTT
+* [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status)
+  Operating-system related data, published to an MQTT broker at fixed intervals.
+* [mqtt-panel](https://github.com/fabaff/mqtt-panel)
+  A web interface for MQTT
 
 Smarthome-Software with MQTT adapters
 ---------------------------
