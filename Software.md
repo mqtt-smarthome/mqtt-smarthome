@@ -37,7 +37,7 @@ Software written with the proposal in mind
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt)
   Insert incoming MQTT values into InfluxDB.
 
-Software otherwise usable 
+Software (maybe) otherwise usable 
 ---------------------------
 * [Node-RED](http://nodered.org/)
 * [Owntracks](http://owntracks.org/)
