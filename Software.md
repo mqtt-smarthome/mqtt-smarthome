@@ -1,5 +1,4 @@
-mqtt-smarthome
-==============
+# mqtt-smarthome
 
 _Note that this project is not associated with or endorsed by http://mqtt.org_
 
@@ -7,8 +6,7 @@ Home: https://github.com/mqtt-smarthome
 
 ## List of Software written with this proposal in mind
    
-*   
-    **Hardware Interfaces**  
+#### Hardware Interfaces  
 
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
@@ -20,13 +18,13 @@ Home: https://github.com/mqtt-smarthome
 * [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish values from [TQ Energy Manager](http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
 * [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Control DMX devices via Art-Net by MQTT   
 
-    **Logic, Visualization, Logging**                          
+#### Logic, Visualization, Logging                      
 
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB.
 
-    **Misc**              
+#### Misc            
 
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
 
@@ -43,14 +41,14 @@ Home: https://github.com/mqtt-smarthome
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
 
 
-Smarthome-Software with MQTT adapters
----------------------------
+## Smarthome-Software with MQTT adapters
+
 * [ccu.io](https://github.com/hobbyquaker/ccu.io) has a MQTT adapter since V1.0.49
 * [fhem](http://fhem.de/) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6 
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt)
 * [openhab](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding)
 
-Additions and corrections
--------------------------
+## Additions and corrections
+
 Additions and corrections are welcome! Please open an issue on GitHub, send a 
 pullrequest or simply e-mail me at owagner AT tellerulam.com.
