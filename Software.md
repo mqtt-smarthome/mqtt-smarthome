@@ -27,6 +27,8 @@ Home: https://github.com/mqtt-smarthome
 #### Misc            
 
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
+* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between HAP-NodeJS and MQTT. Can be used to control MQTT attached devices with Siri
+* [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
 
 ## List of Software (maybe) otherwise useable
 
