@@ -43,6 +43,7 @@ Home: https://github.com/mqtt-smarthome
 * [agi-mqtt](https://github.com/jpmens/agi-mqtt) - Interface between Asterisk and MQTT
 * [mqtt-google-calendar](https://github.com/denschu/mqtt-google-calendar) - Google Calendar to MQTT bridge
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
+* [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
 
 ## Smarthome-Software with MQTT adapters
