@@ -25,6 +25,7 @@ Home: https://github.com/mqtt-smarthome
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB.
+* [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - MQTT Web Frontend: Publish, Subscribe and see Topic Status in a comfortable UI
 
 #### Misc            
 
@@ -43,6 +44,7 @@ Home: https://github.com/mqtt-smarthome
 * [agi-mqtt](https://github.com/jpmens/agi-mqtt) - Interface between Asterisk and MQTT
 * [mqtt-google-calendar](https://github.com/denschu/mqtt-google-calendar) - Google Calendar to MQTT bridge
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
+* [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
 
 ## Smarthome-Software with MQTT adapters
