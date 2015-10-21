@@ -37,16 +37,20 @@ Home: https://github.com/mqtt-smarthome
 
 * [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT
+* [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
+* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services
+* [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker
+* [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages
 * [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT
 * [Owntracks](http://owntracks.org/) - Location tracking and geofencing for MQTT
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway
 * [fritz2mqtt](https://github.com/akentner/fritz2mqtt) - Connect FRITZ!Box to MQTT
-* [agi-mqtt](https://github.com/jpmens/agi-mqtt) - Interface between Asterisk and MQTT
+* [agi-mqtt](https://github.com/zeha/agi-mqtt) - Interface between Asterisk and MQTT
 * [mqtt-google-calendar](https://github.com/denschu/mqtt-google-calendar) - Google Calendar to MQTT bridge
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
-* [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
+
 
 
 
