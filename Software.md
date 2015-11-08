@@ -14,7 +14,7 @@ Home: https://github.com/mqtt-smarthome
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Connect  [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
-* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between HAP-NodeJS and MQTT. Can be used to control MQTT attached devices with Siri
+* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HAP-NodeJS based MQTT-HomeKit Bridge. Control devices with Siri and HomeKit enabled Apps.
 * [hue2mqtt](https://github.com/owagner/hue2mqtt) - Interface between the Philips Hue bridge and MQTT.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
