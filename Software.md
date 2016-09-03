@@ -12,6 +12,7 @@ Home: https://github.com/mqtt-smarthome
 * [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish values from [TQ Energy Manager](http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
 * [chromoflex2mqtt](https://github.com/owagner/chromoflex2mqtt) - Interface for Barthelme Chromoflex RGB LED controllers
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (FS20, HMS, EM, ...) and MQTT.
+* [dashbutton2mqtt](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish dash button presses to MQTT.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Connect  [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
