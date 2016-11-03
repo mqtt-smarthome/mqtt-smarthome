@@ -17,6 +17,7 @@ Home: https://github.com/mqtt-smarthome
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Connect  [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HAP-NodeJS based MQTT-HomeKit Bridge. Control devices with Siri and HomeKit enabled Apps.
+* [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
 * [hue2mqtt](https://github.com/owagner/hue2mqtt) - Interface between the Philips Hue bridge and MQTT.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
@@ -30,6 +31,7 @@ Home: https://github.com/mqtt-smarthome
 
 #### Logic, Visualization, Logging                      
 
+* [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB.
