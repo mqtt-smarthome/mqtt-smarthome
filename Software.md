@@ -14,6 +14,7 @@ Home: https://github.com/mqtt-smarthome
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (FS20, HMS, EM, ...) and MQTT.
 * [dashbutton2mqtt](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish dash button presses to MQTT.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
+* [evohome2mqtt](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Connect  [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HAP-NodeJS based MQTT-HomeKit Bridge. Control devices with Siri and HomeKit enabled Apps.
