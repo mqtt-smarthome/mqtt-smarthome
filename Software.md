@@ -47,5 +47,5 @@ A list of software that is maybe useful, even if it doesn't follow the mqtt-smar
 
 ## Additions and corrections
 
-Additions and corrections are welcome! Please open an issue on GitHub, send a 
-pullrequest or simply e-mail me at owagner AT tellerulam.com.
+Additions and corrections are welcome! Please open an issue on GitHub or send a 
+pullrequest.
