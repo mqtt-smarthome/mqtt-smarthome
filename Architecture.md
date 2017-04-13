@@ -200,8 +200,7 @@ message.
 Feedback
 --------
 Feedback is welcome. Feel free to open an issue or a pull request
-on GitHub. I'm also available for discussion on #mqtt @ Freenode,
-or via e-mail at owagner AT tellerulam.com.
+on GitHub.
 
 
 Logo
