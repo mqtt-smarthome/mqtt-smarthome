@@ -33,6 +33,7 @@ Home: https://github.com/mqtt-smarthome
 
 #### Logic, Visualization, Logging                      
 
+* [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable web visualization.
 * [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
