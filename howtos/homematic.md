@@ -199,5 +199,5 @@ You now opened up two "worlds" at once:
 * Howto version 1, 5'2017, Sebastian Raff <hq@ccu.io>
 
 
-_In memoriam of Oli Wagner, the founder/initatior of the mqtt-smarthome project._
+_In memoriam of Oli Wagner (✝ 2016), the founder/initiator of the mqtt-smarthome project._
 
