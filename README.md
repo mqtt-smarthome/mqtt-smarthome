@@ -1,6 +1,8 @@
 mqtt-smarthome
 ==============
 
+[![Join the chat at https://gitter.im/mqtt-smarthome/mqtt-smarthome](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mqtt-smarthome/mqtt-smarthome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 _Note that this project is not associated with or endorsed by http://mqtt.org_
 
 Home: https://github.com/mqtt-smarthome
