@@ -34,6 +34,7 @@ Home: https://github.com/mqtt-smarthome
 * [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Control DMX devices via Art-Net by MQTT   
 * [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT
+* [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - Publish Xiaomi sensor data to MQTT. For relatively cheap zigbee sensors.
 
 
 #### Logic, Visualization, Logging                      
