@@ -23,7 +23,8 @@ Home: https://github.com/mqtt-smarthome
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HAP-NodeJS based MQTT-HomeKit Bridge. Control devices with Siri and HomeKit enabled Apps.
 * [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
 * [hue2mqtt](https://github.com/owagner/hue2mqtt) - Interface between the Philips Hue bridge and MQTT.
-* [hue2mqtt](https://github.com/svrooij/hue2mqtt) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js to be lightweight.
+* [hue2mqtt](https://github.com/svrooij/hue2mqtt) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js by svrooij.
+* [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js by hobbyquaker.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
