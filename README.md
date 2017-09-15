@@ -5,7 +5,7 @@ _Note that this project is not associated with or endorsed by http://mqtt.org_
 
 Home: https://github.com/mqtt-smarthome
 
-https://mqtt-smarthome.slack.com
+[https://mqtt-smarthome.slack.com](https://join.slack.com/t/mqtt-smarthome/shared_invite/MjQxNDIyNjQxNzc3LTE1MDU0OTc4MzMtZDlmNWJiNGNhNA)
 
 Table of contents
 -----------------
