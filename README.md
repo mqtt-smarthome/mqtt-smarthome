@@ -5,6 +5,8 @@ _Note that this project is not associated with or endorsed by http://mqtt.org_
 
 Home: https://github.com/mqtt-smarthome
 
+https://mqtt-smarthome.slack.com
+
 Table of contents
 -----------------
 This project is an architectural proposal for using MQTT as the low-level central
