@@ -9,6 +9,7 @@ Home: https://github.com/mqtt-smarthome
 #### Interfaces  
 
 * [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
+* [almond2mqtt](https://github.com/nathanielc/almond2mqtt) - Control your home automation devices connected to your Almond+ router from Securifi.
 * [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish values from [TQ Energy Manager](http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
 * [bravia2mqtt](https://github.com/forty2/bravia2mqtt) - Control your Sony Bravia TV with MQTT.
 * [chromoflex2mqtt](https://github.com/owagner/chromoflex2mqtt) - Interface for Barthelme Chromoflex RGB LED controllers
@@ -44,11 +45,11 @@ Home: https://github.com/mqtt-smarthome
 
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable web visualization.
 * [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
+* [jim](https://github.com/nathanielc/jim) - A programmable home automation assistant that provides a DSL for working with devices exposed via the mqtt-smarthome architecture.
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB.
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - MQTT Web Frontend: Publish, Subscribe and see Topic Status in a comfortable UI
-
 
 ## Software (maybe) otherwise useable
 
