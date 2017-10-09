@@ -19,6 +19,7 @@ Home: https://github.com/mqtt-smarthome
 * [evohome2mqtt](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Connect  [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT
 * [haiku2mqtt](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
+* [helios2mqtt](https://github.com/mreschka/helios2mqtt) - A deamon for syncing a helios easy controls system like my KWL EC 220D to mqtt.
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between EQ-3's Homematic line of smarthome devices and MQTT. Also Supports Homematic IP and ReGa Programs/Variables.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HAP-NodeJS based MQTT-HomeKit Bridge. Control devices with Siri and HomeKit enabled Apps.
