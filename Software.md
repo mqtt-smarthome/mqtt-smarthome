@@ -28,6 +28,7 @@ Home: https://github.com/mqtt-smarthome
 * [hue2mqtt](https://github.com/svrooij/hue2mqtt) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js by svrooij.
 * [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js by hobbyquaker.
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) - Gateway between TPLink HS100/HS110 and MQTT.
+* [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - Use your IP-Cameras as motion/sound sensors with this bridge.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
