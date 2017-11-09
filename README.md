@@ -3,7 +3,7 @@ mqtt-smarthome
 
 _Note that this project is not associated with or endorsed by http://mqtt.org_
 
-Chat: [https://mqtt-smarthome.slack.com](https://join.slack.com/t/mqtt-smarthome/shared_invite/MjQxNDIyNjQxNzc3LTE1MDU0OTc4MzMtZDlmNWJiNGNhNA)
+Chat: [https://mqtt-smarthome.slack.com](https://join.slack.com/t/mqtt-smarthome/shared_invite/enQtMjY5ODMyNDY1MzQ3LTBlODQ5YTE2ZmJkYTViOGI0MGQyOGE1YjJmZjNmMGQzY2FjN2I1NDY2MTRhZWU0ZWE4ZGRlMDhiMGQ4NGZkODQ)
 
 Table of contents
 -----------------
