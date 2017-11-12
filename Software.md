@@ -31,6 +31,7 @@ Home: https://github.com/mqtt-smarthome
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) - Gateway between TPLink HS100/HS110 and MQTT.
 * [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - Use your IP-Cameras as motion/sound sensors with this bridge.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
+* [kobold2mqtt](https://github.com/krambox/kobold2mqtt) - Bridge between a Vorwerk VR200 internet gateway and MQTT with state an write access.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
 * [lirc2mqtt](https://github.com/hobbyquaker/lirc2mqtt) - Send and Receive Infrared Commands via MQTT and [LIRC](http://www.lirc.org).
