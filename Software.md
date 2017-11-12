@@ -12,6 +12,7 @@ Home: https://github.com/mqtt-smarthome
 * [almond2mqtt](https://github.com/nathanielc/almond2mqtt) - Control your home automation devices connected to your Almond+ router from Securifi.
 * [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish values from [TQ Energy Manager](http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
 * [bravia2mqtt](https://github.com/forty2/bravia2mqtt) - Control your Sony Bravia TV with MQTT.
+* [buderus2mqtt](https://github.com/krambox/buderus2mqtt) - Bridge between a KM200 Buderus internet gateway and MQTT with state an write access.
 * [chromoflex2mqtt](https://github.com/owagner/chromoflex2mqtt) - Interface for Barthelme Chromoflex RGB LED controllers
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (FS20, HMS, EM, ...) and MQTT.
 * [dashbutton2mqtt](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish dash button presses to MQTT.
