@@ -34,6 +34,7 @@ Home: https://github.com/mqtt-smarthome
 * [kobold2mqtt](https://github.com/krambox/kobold2mqtt) - Bridge between a Vorwerk VR200 internet gateway and MQTT with state an write access.
 * [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
+* [loxone2mqtt](https://github.com/krambox/loxone2mqtt) - Bridge between a Loxone miniserver and MQTT.
 * [lirc2mqtt](https://github.com/hobbyquaker/lirc2mqtt) - Send and Receive Infrared Commands via MQTT and [LIRC](http://www.lirc.org).
 * [modbus2mqtt](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
 * [mqtt2atlonamatrix](https://github.com/forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT
