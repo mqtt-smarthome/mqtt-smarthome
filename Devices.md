@@ -10,9 +10,6 @@ These devices follow _directly_ the mqtt-smarthome paradigma, there's _no servic
 
 * [DevilRemote](https://github.com/dersimn/DevilRemote) - WiFi-enabled replacement for the 'Teufel CC 21 RC' Remote
 
-
-
 ## Additions and corrections
 
-Additions and corrections are welcome! Please open an issue on GitHub or send a 
-pullrequest.
+Additions and corrections are welcome! Please open an issue on GitHub or send a pull-request.

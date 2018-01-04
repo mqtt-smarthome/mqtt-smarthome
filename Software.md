@@ -5,8 +5,8 @@ _Note that this project is not associated with or endorsed by http://mqtt.org_
 Home: https://github.com/mqtt-smarthome
 
 ## List of Software written with this proposal in mind
-   
-#### Interfaces  
+
+### Interfaces
 
 * [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
 * [almond2mqtt](https://github.com/nathanielc/almond2mqtt) - Control your home automation devices connected to your Almond+ router from Securifi.
@@ -43,11 +43,11 @@ Home: https://github.com/mqtt-smarthome
 * [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Control DMX devices via Art-Net by MQTT   
 * [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT
+* [sonos2mqtt](https://github.com/svrooij/sonos2mqtt) - Control your [Sonos](https://www.sonos.com) speakers right from your mqtt server and get realtime updates about the tracks playing.
 * [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - Publish Xiaomi sensor data to MQTT. For relatively cheap zigbee sensors.
 * [owrtwifi2mqtt](https://github.com/dersimn/owrtwifi2mqtt) - Using your OpenWRT Router's Wifi to detect if a person's smartphone is still in/near the apartment and publish via MQTT
 
-
-#### Logic, Visualization, Logging                      
+### Logic, Visualization, Logging
 
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable web visualization.
 * [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
@@ -61,9 +61,6 @@ Home: https://github.com/mqtt-smarthome
 
 A list of software that is maybe useful, even if it doesn't follow the mqtt-smarthome architecture can be found here: https://github.com/hobbyquaker/awesome-mqtt
 
-
-
 ## Additions and corrections
 
-Additions and corrections are welcome! Please open an issue on GitHub or send a 
-pullrequest.
+Additions and corrections are welcome! Please open an issue on GitHub or send a pull-request.
