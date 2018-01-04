@@ -8,7 +8,9 @@ Home: https://github.com/mqtt-smarthome
 
 If you create a mqtt interface that follows the mqtt-smarthome architecture proposal it would be nice if you add this badge to your readme: [![mqtt-smarthome](https://img.shields.io/badge/mqtt-smarthome-blue.svg)](https://github.com/mqtt-smarthome/mqtt-smarthome)
 
-`[![mqtt-smarthome](https://img.shields.io/badge/mqtt-smarthome-blue.svg)](https://github.com/mqtt-smarthome/mqtt-smarthome)`
+```
+[![mqtt-smarthome](https://img.shields.io/badge/mqtt-smarthome-blue.svg)](https://github.com/mqtt-smarthome/mqtt-smarthome)
+```
 
 ### Interfaces
 
