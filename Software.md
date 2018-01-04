@@ -6,6 +6,10 @@ Home: https://github.com/mqtt-smarthome
 
 ## List of Software written with this proposal in mind
 
+If you create a mqtt interface that follows the mqtt-smarthome architecture proposal it would be nice if you add this badge to your readme: [![mqtt-smarthome](https://img.shields.io/badge/mqtt-smarthome-blue.svg)](https://github.com/mqtt-smarthome/mqtt-smarthome)
+
+`[![mqtt-smarthome](https://img.shields.io/badge/mqtt-smarthome-blue.svg)](https://github.com/mqtt-smarthome/mqtt-smarthome)`
+
 ### Interfaces
 
 * [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
