@@ -48,11 +48,12 @@ If you create a mqtt interface that follows the mqtt-smarthome architecture prop
 * [mqtt2tivoremote](https://github.com/forty2/mqtt2tivoremote) - Make TiVo DVR remote control available through an mqtt-smarthome style interface.
 * [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Control DMX devices via Art-Net by MQTT   
 * [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
+* [owrtwifi2mqtt](https://github.com/dersimn/owrtwifi2mqtt) - Using your OpenWRT Router's Wifi to detect if a person's smartphone is still in/near the apartment and publish via MQTT
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT
 * [sonos2mqtt](https://github.com/svrooij/sonos2mqtt) - Control your [Sonos](https://www.sonos.com) speakers right from your mqtt server and get realtime updates about the tracks playing.
+* [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT.
 * [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - Publish connected clients from Ubiquiti Unifi to MQTT.
 * [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - Publish Xiaomi sensor data to MQTT. For relatively cheap zigbee sensors.
-* [owrtwifi2mqtt](https://github.com/dersimn/owrtwifi2mqtt) - Using your OpenWRT Router's Wifi to detect if a person's smartphone is still in/near the apartment and publish via MQTT
 
 ### Logic, Visualization, Logging
 
