@@ -42,6 +42,7 @@ If you create a mqtt interface that follows the mqtt-smarthome architecture prop
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
 * [loxone2mqtt](https://github.com/krambox/loxone2mqtt) - Bridge between a Loxone miniserver and MQTT.
 * [lirc2mqtt](https://github.com/hobbyquaker/lirc2mqtt) - Send and Receive Infrared Commands via MQTT and [LIRC](http://www.lirc.org).
+* [miflora-mqtt-daemon](https://github.com/thomdietrich/miflora-mqtt-daemon) - Publish Xiaomi Mi Flora sensor data to MQTT.
 * [modbus2mqtt](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
 * [mqtt2atlonamatrix](https://github.com/forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - Send MQTT messages to Elasticsearch.
@@ -54,7 +55,7 @@ If you create a mqtt interface that follows the mqtt-smarthome architecture prop
 * [sonos2mqtt](https://github.com/svrooij/sonos2mqtt) - Control your [Sonos](https://www.sonos.com) speakers right from your mqtt server and get realtime updates about the tracks playing.
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT.
 * [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - Publish connected clients from Ubiquiti Unifi to MQTT.
-* [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - Publish Xiaomi sensor data to MQTT. For relatively cheap zigbee sensors.
+* [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - Bridge between Xiaomi Smart Home Gateway and MQTT. For relatively cheap Xiaomi Aqara zigbee sensors.
 
 ### Logic, Visualization, Logging
 
