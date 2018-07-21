@@ -34,6 +34,8 @@ If you create a mqtt interface that follows the mqtt-smarthome architecture prop
 * [hue2mqtt](https://github.com/owagner/hue2mqtt) - Interface between the Philips Hue bridge and MQTT.
 * [hue2mqtt](https://github.com/svrooij/hue2mqtt) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js by svrooij.
 * [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) alternative - Interface between the Philips Hue bridge and MQTT, build in Node.js by hobbyquaker.
+* [simplehue2mqtt](https://github.com/dersimn/simplehue2mqtt) - yet another Hue Bridge
+* [homepilot2mqtt](https://github.com/dersimn/homepilot2mqtt) - Rademacher Homepilot2 Bridge
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) - Gateway between TPLink HS100/HS110 and MQTT.
 * [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - Use your IP-Cameras as motion/sound sensors with this bridge.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. Uses the Calimero KNX library.
@@ -56,16 +58,27 @@ If you create a mqtt interface that follows the mqtt-smarthome architecture prop
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT.
 * [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - Publish connected clients from Ubiquiti Unifi to MQTT.
 * [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - Bridge between Xiaomi Smart Home Gateway and MQTT. For relatively cheap Xiaomi Aqara zigbee sensors.
+* [mqtt2pushover](https://github.com/dersimn/mqtt2pushover) - Send messages via MQTT to Pushover
+* [chromecast-mqtt-smarthome-connector](https://github.com/dersimn/chromecast-mqtt-smarthome-connector) - Control Chromecast (Audio) via MQTT
 
-### Logic, Visualization, Logging
+### Logic
 
-* [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable web visualization.
 * [homely](https://github.com/baol/homely) - Early alpha stage collection of Go bridges and wiring for MQTT. Telegram and Desktop notification, Geofencing, Simple wiring logic, Interface with Arduino, integration with Domoticz (rerouting Domoticz mqtt messages to more descriptive topics)
 * [jim](https://github.com/nathanielc/jim) - A programmable home automation assistant that provides a DSL for working with devices exposed via the mqtt-smarthome architecture.
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
+* [astro4mqtt](https://github.com/dersimn/astro4mqtt) - Publish astronomical data via MQTT (e.g. sun elevation and altitude)
+
+### Logging
+
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB.
+* [mqtt2influx](https://github.com/dersimn/mqtt2influx) - Store MQTT data into InfluxDB
+
+### Visualization
+
+* [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable web visualization.
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - MQTT Web Frontend: Publish, Subscribe and see Topic Status in a comfortable UI
+* [mqtt-smarthome-webui](https://github.com/dersimn/mqtt-smarthome-webui) - Responsive web app for manual control
 
 ## Software (maybe) otherwise useable
 
