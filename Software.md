@@ -66,6 +66,7 @@ If you create a mqtt interface that follows the mqtt-smarthome architecture prop
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Logic and scripting engine for use with MQTT. Node.js based, require command works as expected.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB.
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - MQTT Web Frontend: Publish, Subscribe and see Topic Status in a comfortable UI
+* [mqtt-lightify](https://github.com/dzerrenner/mqtt-lightify) - Connect locally to an Osram lightify bridge via TCP. 
 
 ## Software (maybe) otherwise useable
 
