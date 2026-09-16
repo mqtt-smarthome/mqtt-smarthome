@@ -74,7 +74,7 @@ convention fits in the same way:
 - Recording: [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) (InfluxDB),
   [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) (Elasticsearch)
 - Automation: [Smart Home Engine ("she")](https://github.com/hobbyquaker/she)
-- User interface: [feezal](https://github.com/feezal/feezal), Node-RED-Dashboard, Home Assistant, any MQTT-driven apps and dashboards
+- User interface: [feezal](https://github.com/feezal/feezal), MQTT-driven apps and dashboards
 
 ## History
 
