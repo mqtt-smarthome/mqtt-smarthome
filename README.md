@@ -33,7 +33,7 @@ this works on a shared broker.
 - **Interfaces**: any program that follows the convention. The `xyz2mqtt` adapters built on
   [mqtt-interfaces-core](https://github.com/hobbyquaker/mqtt-interfaces-core) run standalone;
   [Smart Home Engine ("she")](https://github.com/hobbyquaker/she) can manage them.
-- **Automation**: [Smart Home Engine ("she")](https://github.com/hobbyquaker/she), Node-RED, Home
+- **Automation**: Smart Home Engine ("she"), Node-RED, Home
   Assistant or anything else that speaks MQTT, entirely up to the user.
 - **User interface**: [feezal](https://github.com/feezal/feezal), Node-RED Dashboard, Home
   Assistant, … One of them, a different one later, or several in parallel.
