@@ -23,7 +23,7 @@ proposal of 2015 is [legacy/Architecture.md](legacy/Architecture.md).
 
 ## The idea
 
-mqtt-smarthome is not a piece of software but a concept: a small set of rules for how a bridge to
+mqtt-smarthome is a small set of rules for how a bridge to
 hardware or a service presents itself on an MQTT broker. Everything around the broker stays
 decoupled, and every part can be replaced without touching the others. Popular projects like
 [zigbee2mqtt](https://www.zigbee2mqtt.io), [ESPHome](https://esphome.io),
@@ -53,7 +53,9 @@ Software written with the mqtt-smarthome convention in mind and actively maintai
 hobbyquaker projects below are one way to build an mqtt-smarthome — any other software that follows
 the convention fits in the same way. The list of 2015–2018, unchanged, is
 [legacy/Software.md](legacy/Software.md); entries from it are listed here when their project is
-still maintained and in use.
+still maintained and in use. 
+A comprehensive list of software related to MQTT in general can be found on 
+[awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt).
 
 The **spec** column names the [SPEC.md](SPEC.md) version a project announces; `—` means it follows
 the 2015 convention ([legacy/Architecture.md](legacy/Architecture.md)).
