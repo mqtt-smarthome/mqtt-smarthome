@@ -35,8 +35,8 @@ this works on a shared broker.
   [Smart Home Engine ("she")](https://github.com/hobbyquaker/she) can manage them.
 - **Automation**: Smart Home Engine ("she"), Node-RED, Home
   Assistant or anything else that speaks MQTT, entirely up to the user.
-- **User interface**: [feezal](https://github.com/feezal/feezal), Node-RED Dashboard, Home
-  Assistant, … One of them, a different one later, or several in parallel.
+- **User interface**: [feezal](https://github.com/feezal/feezal), Node-RED Dashboard, 
+  HA's Lovelace UI, … One of them, a different one later, or several in parallel.
 
 ## Home Assistant
 
