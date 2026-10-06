@@ -282,7 +282,11 @@ abbreviated keys are allowed. On top of it:
   which belongs to the single-topic form. Home Assistant rejects the whole device payload over one
   unknown key in a list entry and creates none of its entities. A bridged device MAY add an entry
   of its own (`<name>/status/<device>/online`) next to the bridge's; with more than one entry,
-  `availability_mode` is `all`.
+  `availability_mode` is `all`. **Every availability topic MUST be retained and have a value before a
+  discovery payload names it**: Home Assistant shows an entity as unavailable until each of its
+  availability topics has delivered one, so an entry whose topic was never published (a device that
+  never went unreachable, say) leaves the device unavailable for good. An adapter leaves such an
+  entry out until the value is known, then announces the device again.
 - The payload SHOULD carry an `origin` block (`name`, `sw_version`, `support_url`) naming the
   adapter, and a device block with `identifiers`, `name` and whatever the adapter knows
   (`manufacturer`, `model`, `sw_version`, …). Entity names are short and device-relative ("Volume",
