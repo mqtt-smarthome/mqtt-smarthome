@@ -85,6 +85,8 @@ If your software follows the convention, you are welcome to add this badge to it
 | [sonos2mqtt](https://github.com/svrooij/sonos2mqtt)                   | Sonos speakers                                                         | —    |
 | [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt)       | internet speed tests                                                   | 2.0  |
 | [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt)               | Ubiquiti UniFi network controllers: client presence, devices, WLANs    | 2.0  |
+| [untis2mqtt](https://github.com/hobbyquaker/untis2mqtt)               | WebUntis school timetables: lessons, changes, homework, absences       | 2.0  |
+| [vag2mqtt](https://github.com/boesec/vag2mqtt)                        | Volkswagen Group vehicles (Audi first) through the manufacturer cloud  | 2.0  |
 | [wiim2mqtt](https://github.com/hobbyquaker/wiim2mqtt)                 | WiiM (LinkPlay) audio streamers                                        | 2.0  |
 
 Libraries for writing interfaces:
@@ -105,7 +107,6 @@ them.
 | Project                                                         | What it is                                                                                             |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [Smart Home Engine ("she")](https://github.com/hobbyquaker/she) | scripts in plain JavaScript, MQTT and Matter, a web IDE; manages mqtt-interfaces-core based interfaces |
-| [dan](https://github.com/nathanielc/dan)                        | a home automation programming language with native MQTT support (formerly jim)                         |
 
 ### User interface
 
